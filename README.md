@@ -6,6 +6,22 @@ The system provides a secure environment for localized voting by integrating can
 
 ---
 
+## 📸 Project Media & Circuit Layout
+
+### Physical Implementation
+Below is the physical hardware setup and circuit assembly for this project:
+![Physical Implementation](Implemented.jpg)
+
+### Proteus Circuit Simulation
+Below is the schematic capture and software simulation diagram designed in Proteus:
+![Proteus Simulation](proteus.jpg)
+
+### Step-by-Step System Assembly
+A close-up look at the wiring connection stages:
+![Step Wise Assembly](step%20wise.jpg)
+
+---
+
 ## 🛠️ Hardware Architecture & Components
 The system topology integrates the following core hardware elements managed by the primary 8-bit microcontroller:
 
